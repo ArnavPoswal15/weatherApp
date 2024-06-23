@@ -1,1 +1,1 @@
-# this is a whether app.
+# this is a whether app
